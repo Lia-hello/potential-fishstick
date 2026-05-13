@@ -1,0 +1,9 @@
+group,artist,title,lyric_diversity
+2022_before,Taylor Swift,All Too Well,0.505
+2022_before,The Weeknd,Blinding Lights,0.453
+2022_before,Adele,Easy On Me,0.508
+2022_before,Harry Styles,As It Was,0.475
+2024_after,Taylor Swift,Fortnight,0.41
+2024_after,Olivia Rodrigo,vampire,0.442
+2024_after,Dua Lipa,Houdini,0.312
+2024_after,SZA,Kill Bill,0.406
